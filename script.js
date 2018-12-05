@@ -1,11 +1,11 @@
 var targets = [                          //Place target URL here
 
 
-			'https://life.ru/t/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0/1175485/diziel_tianiet_tsieny_naskolko_podorozhaiet_toplivo_v_diekabrie',
-			'https://news.mail.ru/',
-			'https://news.mail.ru/politics/35593842/',
-			'http://moevideo.biz/',
-			'http://moevideo.biz/news/duh-puteshestvij',
+			// 'https://life.ru/t/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0/1175485/diziel_tianiet_tsieny_naskolko_podorozhaiet_toplivo_v_diekabrie',13:52
+			// 'https://news.mail.ru/',13:53
+			// 'https://news.mail.ru/politics/35593842/',13:54
+			// 'http://moevideo.biz/',13:55
+			// 'http://moevideo.biz/news/duh-puteshestvij',13:56
 			'https://ria.ru',
 			'https://ria.ru/religion/20181205/1543489443.html?referrer_block=index_main_1',
 			'https://m.kp.ru/',
