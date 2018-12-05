@@ -1,22 +1,23 @@
 var targets = [                          //Place target URL here
 
 
-			// 'https://life.ru/t/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0/1175485/diziel_tianiet_tsieny_naskolko_podorozhaiet_toplivo_v_diekabrie',13:52
-			// 'https://news.mail.ru/',13:53
-			// 'https://news.mail.ru/politics/35593842/',13:54
-			// 'http://moevideo.biz/',13:55
-			// 'http://moevideo.biz/news/duh-puteshestvij',13:56
-			// 'https://ria.ru', 13:59
-			// 'https://ria.ru/religion/20181205/1543489443.html?referrer_block=index_main_1', 14:00
-			// 'https://m.kp.ru/', 14:01
-			// 'https://www.kp.ru/daily/26916/3962680/', 14:02
-			// 'https://iz.ru/', 14:03
-			// 'https://iz.ru/820170/2018-12-05/minoborony-pokazalo-video-razvertyvaniia-boevogo-lazera-peresvet',
-			// 'https://www.lentainform.com/',
-			// 'https://russian.rt.com/business/news/579145-saxo-bank-shokiruyuschie-predskazaniya?utm_medium=referral&utm_source=lentainform&utm_campaign=russian.rt.com&utm_term=135505&utm_content=1',
-			// 'https://showjet.ru/',
-			// 'https://showjet.ru/serials/3422-snegopad',
-			// 'https://www.babyblog.ru/',
+			'https://life.ru/t/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0/1175485/diziel_tianiet_tsieny_naskolko_podorozhaiet_toplivo_v_diekabrie',
+			'https://news.mail.ru/',
+			'https://news.mail.ru/politics/35593842/',
+			'http://moevideo.biz/',
+			'http://moevideo.biz/news/duh-puteshestvij',
+			'https://ria.ru',
+			'https://ria.ru/religion/20181205/1543489443.html?referrer_block=index_main_1',
+			'https://m.kp.ru/',
+			'https://www.kp.ru/daily/26916/3962680/',
+			'https://iz.ru/',
+			'https://iz.ru/820170/2018-12-05/minoborony-pokazalo-video-razvertyvaniia-boevogo-lazera-peresvet',
+			'https://www.lentainform.com/',
+			'https://russian.rt.com/business/news/579145-saxo-bank-shokiruyuschie-predskazaniya?utm_medium=referral&utm_source=lentainform&utm_campaign=russian.rt.com&utm_term=135505&utm_content=1',
+			'https://showjet.ru/',
+			'https://showjet.ru/serials/3422-snegopad',
+			// 'https://www.babyblog.ru/', 
+			//начало
 			// 'https://m.babyblog.ru/community/post/naming/3047283',
 			// 'http://bazr.ru/',
 			// 'http://bazr.ru/shou/novoe/lisa-rulit',
@@ -39,18 +40,18 @@ var targets = [                          //Place target URL here
 			// 'https://www.kino-teatr.ru/',
 			// 'https://www.kino-teatr.ru/kino/news/y2018/12-4/16802/',
 			// 'http://www.aif.ru',
-			'http://www.aif.ru/culture/person/prokaza_ne_udalas_kto_takoy_haski_i_chem_on_ne_nravitsya_policii',
-			'http://www.aif.ru/politics/world/meksika_napravila_notu_ssha_iz-za_incidenta_s_migrantami_na_granice',
-			'http://www.aif.ru/politics/russia/fsb_rasskazala_kak_razvivalis_sobytiya_v_rayone_kerchenskogo_proliva',
-			'https://www.vesti.ru/',
-			'https://www.vesti.ru/doc.html?id=3087914',
-			'https://www.mk.ru/social/2018/12/05/yandeks-i-gazprommedia-zaklyuchili-mirovoe-soglashenie.html',
-			'https://www.mk.ru/politics/2018/12/05/sud-kieva-zavershil-rassmotrenie-dela-yanukovicha.html',
-			'https://tass.ru/ekonomika/5872570',
-			'https://tass.ru/mezhdunarodnaya-panorama/5872345',
-			'https://m.vz.ru/news/2018/12/5/953803.html',
-			'https://m.vz.ru/opinions/2018/12/4/953493.html',
-			'https://matchtv.ru/football/matchtvnews_NI935486_Ekskluziv_Match_TV_Pervoje_intervju_Massimo_Karrery_posle_uvolnenija_iz_Spartaka'
+			// 'http://www.aif.ru/culture/person/prokaza_ne_udalas_kto_takoy_haski_i_chem_on_ne_nravitsya_policii',
+			// 'http://www.aif.ru/politics/world/meksika_napravila_notu_ssha_iz-za_incidenta_s_migrantami_na_granice',
+			// 'http://www.aif.ru/politics/russia/fsb_rasskazala_kak_razvivalis_sobytiya_v_rayone_kerchenskogo_proliva',
+			// 'https://www.vesti.ru/',
+			// 'https://www.vesti.ru/doc.html?id=3087914',
+			// 'https://www.mk.ru/social/2018/12/05/yandeks-i-gazprommedia-zaklyuchili-mirovoe-soglashenie.html',
+			// 'https://www.mk.ru/politics/2018/12/05/sud-kieva-zavershil-rassmotrenie-dela-yanukovicha.html',
+			// 'https://tass.ru/ekonomika/5872570',
+			// 'https://tass.ru/mezhdunarodnaya-panorama/5872345',
+			// 'https://m.vz.ru/news/2018/12/5/953803.html',
+			// 'https://m.vz.ru/opinions/2018/12/4/953493.html',
+			// 'https://matchtv.ru/football/matchtvnews_NI935486_Ekskluziv_Match_TV_Pervoje_intervju_Massimo_Karrery_posle_uvolnenija_iz_Spartaka'
 
 
 
