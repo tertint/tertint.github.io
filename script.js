@@ -6,11 +6,11 @@ var targets = [                          //Place target URL here
 			// 'https://news.mail.ru/politics/35593842/',13:54
 			// 'http://moevideo.biz/',13:55
 			// 'http://moevideo.biz/news/duh-puteshestvij',13:56
-			'https://ria.ru',
-			'https://ria.ru/religion/20181205/1543489443.html?referrer_block=index_main_1',
-			'https://m.kp.ru/',
-			'https://www.kp.ru/daily/26916/3962680/',
-			'https://iz.ru/',
+			// 'https://ria.ru', 13:59
+			// 'https://ria.ru/religion/20181205/1543489443.html?referrer_block=index_main_1', 14:00
+			// 'https://m.kp.ru/', 14:01
+			// 'https://www.kp.ru/daily/26916/3962680/', 14:02
+			// 'https://iz.ru/', 14:03
 			'https://iz.ru/820170/2018-12-05/minoborony-pokazalo-video-razvertyvaniia-boevogo-lazera-peresvet',
 			'https://www.lentainform.com/',
 			'https://russian.rt.com/business/news/579145-saxo-bank-shokiruyuschie-predskazaniya?utm_medium=referral&utm_source=lentainform&utm_campaign=russian.rt.com&utm_term=135505&utm_content=1',
