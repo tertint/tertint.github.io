@@ -1,6 +1,6 @@
 var targets = [                          //Place target URL here
 
-			'https://life.ru/',
+
 			'https://life.ru/t/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0/1175485/diziel_tianiet_tsieny_naskolko_podorozhaiet_toplivo_v_diekabrie',
 			'https://news.mail.ru/',
 			'https://news.mail.ru/politics/35593842/',
@@ -50,7 +50,9 @@ var targets = [                          //Place target URL here
 			'https://tass.ru/mezhdunarodnaya-panorama/5872345',
 			'https://m.vz.ru/news/2018/12/5/953803.html',
 			'https://m.vz.ru/opinions/2018/12/4/953493.html',
-			'https://matchtv.ru/football/matchtvnews_NI935486_Ekskluziv_Match_TV_Pervoje_intervju_Massimo_Karrery_posle_uvolnenija_iz_Spartaka',
+			'https://matchtv.ru/football/matchtvnews_NI935486_Ekskluziv_Match_TV_Pervoje_intervju_Massimo_Karrery_posle_uvolnenija_iz_Spartaka'
+
+
 
     ];
 
@@ -64,4 +66,4 @@ var targets = [                          //Place target URL here
     }
         iTarget = 0;
         nextTarget();
-        setInterval( nextTarget, 6000 );   //time interval here 30000 = 30 Sec
+        setInterval( nextTarget, 60000 );   //time interval here 30000 = 30 Sec
