@@ -65,4 +65,4 @@ var targets = [                          //Place target URL here
     }
         iTarget = 0;
         nextTarget();
-        setInterval( nextTarget, 1200 );   //time interval here 30000 = 30 Sec
+        setInterval( nextTarget, 120000 );   //time interval here 30000 = 30 Sec
