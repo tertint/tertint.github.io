@@ -1,11 +1,11 @@
 var targets = [                          //Place target URL here
 
-        'https://www.m24.ru/', 
-      'https://www.m24.ru/news/transport/05122018/56810',
-      'https://vm.ru/',
-      'https://vm.ru/news/564457.html',
-      'https://theoryandpractice.ru/',
-      'https://theoryandpractice.ru/posts/17096-kak-pokupat-knigi-v-zarubezhnykh-internet-magazinakh',
+'https://www.m24.ru/', 
+			'https://www.m24.ru/news/transport/05122018/56810',
+			'https://vm.ru/',
+			'https://vm.ru/news/564457.html',
+			'https://theoryandpractice.ru/',
+			'https://theoryandpractice.ru/posts/17096-kak-pokupat-knigi-v-zarubezhnykh-internet-magazinakh',
 			'https://life.ru/',
 			'https://life.ru/t/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0/1175485/diziel_tianiet_tsieny_naskolko_podorozhaiet_toplivo_v_diekabrie',
 			'https://news.mail.ru/',
@@ -38,7 +38,7 @@ var targets = [                          //Place target URL here
 			'http://www.wday.ru/seks-otnosheniya/psihologiya/slujebnyie-romanyi-zvezd-znamenitosti-kotoryih-svela-rabota/',
 			'https://m.lenta.ru/',
 			'https://m.lenta.ru/news/2018/12/05/bolbea/',
-			'fishki.net',
+			'https://fishki.net',
 			'https://fishki.net/2791699-uralyskim-malysham-v-detskom-sadu-predlozhili-zaplatity-za-novogodnij-utrennik.html',
 			'https://fishki.net/2605110-vyjdu-na-ulicu-gljanu-na-selo-osobennosti-derevenskih-prazdnikov.html?from=post',
 			'https://m.market.yandex.ru/product--smartfon-samsung-galaxy-a8-2018-32gb/1901397008?hid=91491&show-uid=15426269924785467360716004&from=search&local-offers-first=0&onstock=0',
@@ -52,6 +52,11 @@ var targets = [                          //Place target URL here
 			'https://www.vesti.ru/doc.html?id=3087914',
 			'https://www.mk.ru/social/2018/12/05/yandeks-i-gazprommedia-zaklyuchili-mirovoe-soglashenie.html',
 			'https://www.mk.ru/politics/2018/12/05/sud-kieva-zavershil-rassmotrenie-dela-yanukovicha.html',
+			'https://tass.ru/ekonomika/5872570',
+			'https://tass.ru/mezhdunarodnaya-panorama/5872345',
+			'https://m.vz.ru/news/2018/12/5/953803.html',
+			'https://m.vz.ru/opinions/2018/12/4/953493.html',
+			'https://matchtv.ru/football/matchtvnews_NI935486_Ekskluziv_Match_TV_Pervoje_intervju_Massimo_Karrery_posle_uvolnenija_iz_Spartaka',
 
     ];
 
