@@ -1,11 +1,5 @@
 var targets = [                          //Place target URL here
 
-'https://www.m24.ru/', 
-			'https://www.m24.ru/news/transport/05122018/56810',
-			'https://vm.ru/',
-			'https://vm.ru/news/564457.html',
-			'https://theoryandpractice.ru/',
-			'https://theoryandpractice.ru/posts/17096-kak-pokupat-knigi-v-zarubezhnykh-internet-magazinakh',
 			'https://life.ru/',
 			'https://life.ru/t/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0/1175485/diziel_tianiet_tsieny_naskolko_podorozhaiet_toplivo_v_diekabrie',
 			'https://news.mail.ru/',
@@ -64,9 +58,7 @@ var targets = [                          //Place target URL here
 
     function nextTarget(){
         window.open( targets[iTarget], 'target' );
-        if( ++iTarget >= targets.length ) {
-            iTarget = 0;
-        }
+
     }
         iTarget = 0;
         nextTarget();
