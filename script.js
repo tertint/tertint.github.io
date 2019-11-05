@@ -1,15 +1,13 @@
-// var targets = [
-//'example',
-//];
-
-//     let iTarget;
-
-//     function nextTarget(){
-//         window.open( targets[iTarget], 'target' );
-//         if( ++iTarget >= targets.length ) {
-//             iTarget = 0;
-//         }
-//     }
-//         iTarget = 0;
-//         nextTarget();
-//         setInterval( nextTarget, 60000 );   //time interval here 30000 = 30 Sec
+const longestConsec = (strarr, k) => {
+    let longestString = '';
+    let currentString = '';
+    if (strarr.length === 0 || k === 0) return '';
+    for (let i = 0; i < strarr.length; i++) {
+        for (let j = i; j < k; j++) {
+            currentString += strarr[j];
+        }
+        if (currentString.length > longestString.length) longestString = currentString;
+        currentString = '';
+    }
+    return longestString;
+}
